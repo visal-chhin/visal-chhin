@@ -1,3 +1,52 @@
+# Greetings, wanderer! I'm DIMFLIX!
+
+<p align="center">
+  <img src="assets/cute-bunny.png" width="300" alt="Cute Bunny Pixel Art" />
+</p>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" /></a>
+  <a href="https://youtube.com/@your_channel"><img src="https://img.shields.io/badge/Youtube-red?logo=youtube&style=for-the-badge" /></a>
+  <a href="https://vk.com/your_vk"><img src="https://img.shields.io/badge/VKontakte-734c8a?logo=vk&style=for-the-badge" /></a>
+  <a href="https://discord.gg/your_invite"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&style=for-the-badge" /></a>
+</p>
+
+## 📝 Readme Versions
+
+<p align="center">
+  <a href="#readme"><img src="https://img.shields.io/badge/README-black?style=flat-square" /></a>
+  <a href="#readme-ru"><img src="https://img.shields.io/badge/RU-pink?style=flat-square" /></a>
+  <a href="#readme-eng"><img src="https://img.shields.io/badge/ENG-orange?style=flat-square" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/committers.top%20rank-%2344-brightgreen?style=flat-square" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋 I'm Visal Chhin!
 
 Welcome to my GitHub profile!  
