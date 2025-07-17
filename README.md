@@ -1,5 +1,3 @@
-<img width="1422" height="1645" alt="image" src="https://github.com/user-attachments/assets/5fa2da3a-a84f-4201-acdb-1b2cb2fab2ae" /># Greetings, wanderer! I'm DIMFLIX!
-
 <p align="center">
   <img src="luffy.png" width="300" alt="" />
 </p>
@@ -22,10 +20,6 @@
     <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
 
-  <!-- VKontakte badge (replace # with your link) -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/VKontakte-734c8a?logo=vk&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 <!-- Luffy image centered -->
