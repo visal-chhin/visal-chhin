@@ -24,7 +24,8 @@
 
 <!-- Luffy image centered -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4b/91/29/4b91297aece7c396c423e8be61c1cabc.png" alt="Luffy" width="300" />
+  <img src="![luffy](https://github.com/user-attachments/assets/2b0d4dba-10fd-4e8e-84ae-f2790d569b99)
+" alt="Luffy" width="300" />
 </p>
 
 
