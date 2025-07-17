@@ -24,7 +24,7 @@
 
 <!-- Luffy image centered -->
 <p align="center">
-  <img src="![luffy](https://github.com/user-attachments/assets/2b0d4dba-10fd-4e8e-84ae-f2790d569b99)
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oneesports.gg%2Fanime%2Fwho-is-luffys-dad-one-piece%2F&psig=AOvVaw1VJG-NYyR7p68WTS_CPq-1&ust=1752823435597000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjx0aOuw44DFQAAAAAdAAAAABAE
 " alt="Luffy" width="300" />
 </p>
 
