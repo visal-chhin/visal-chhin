@@ -7,17 +7,32 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="Imsal27"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" /></a>
+  <!-- GitHub or username badge (you can update this URL or text as needed) -->
+  <a href="https://github.com/Imsal27">
+    <img src="https://img.shields.io/badge/GitHub-Imsal27-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <!-- Facebook badge -->
   <a href="https://www.facebook.com/share/18svtJvLzg/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
-  <a href=""><img src="https://img.shields.io/badge/Youtube-red?logo=youtube&style=for-the-badge" /></a>
-  <a href=""><img src="https://img.shields.io/badge/VKontakte-734c8a?logo=vk&style=for-the-badge" /></a>
-  <p align="center">
-  <img src="<img width="1422" height="1645" alt="image" src="https://github.com/user-attachments/assets/89267961-76c0-4849-8236-d4e62fe5886b" />
-" alt="Telegram QR Code" />
-  </p>
+
+  <!-- YouTube badge (replace # with your link) -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <!-- VKontakte badge (replace # with your link) -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/VKontakte-734c8a?logo=vk&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
+
+<!-- Luffy image centered -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4b/91/29/4b91297aece7c396c423e8be61c1cabc.png" alt="Luffy" width="300" />
+</p>
+
 
 <h1 style="font-size: 30px;">👋 Hi there, I'm <strong>Visal Chhin</strong>!</h1>
 
