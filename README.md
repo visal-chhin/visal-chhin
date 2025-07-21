@@ -1,81 +1,52 @@
-<p align="center">
-  <img src="luffy.png" width="300" alt="" />
-</p>
-
 ## 🌐 Connect with Me
 
-<p align="center">
-  <!-- GitHub or username badge (you can update this URL or text as needed) -->
-  <a href="https://github.com/Imsal27">
-    <img src="https://img.shields.io/badge/GitHub-Imsal27-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
+# 👋 Hi All Watching:  
 
-  <!-- Facebook badge -->
-  <a href="https://www.facebook.com/share/18svtJvLzg/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
-  </a>
+# **<h3 style="font-size: 34px;>I'm VISAL CHHIN<\h3>**  
 
-  <!-- YouTube badge (replace # with your link) -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
-  </a>
+🎓 **Computer Science | Second Year**  
 
-</p>
+---
 
-<!-- Luffy image centered -->
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oneesports.gg%2Fanime%2Fwho-is-luffys-dad-one-piece%2F&psig=AOvVaw1VJG-NYyR7p68WTS_CPq-1&ust=1752823435597000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjx0aOuw44DFQAAAAAdAAAAABAE
-" alt="Luffy" width="300" />
-</p>
+## 💻 Tech Stack
 
+[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)](https://adobexdplatform.com/)
 
-<h1 style="font-size: 30px;">👋 Hi there, I'm <strong>Visal Chhin</strong>!</h1>
+👉 [See all on GitHub](https://github.com/visal-chhin/visal-chhin)
 
-<p style="font-size: 18px;">
-Welcome to my GitHub profile!  
-This is a ✨ <em>special</em> ✨ repository because its <code>README.md</code> appears on <strong>my profile</strong>.
-</p>
+---
 
-<hr />
+## 📫 Connect with Me
 
-<h2 style="font-size: 22px;">🚀 ABOUT ME</h2>
+- 🌐 Website: [.site](https://.site)  
+- 💼 LinkedIn: [visal-chhin]()
+- 📧 Email: [visalchhin54@gmail.com](mailto:visalchhin54@gmail.com)  
 
-<ul style="font-size: 18px;">
-  <li>🔭 I’m currently working on <strong>Flutter mobile apps</strong> and exploring cross-platform UI magic.</li>
-  <li>🌱 I’m currently learning <strong>Firebase</strong>, <strong>REST API integration</strong>, and <strong>state management in Flutter</strong> (like Provider, Bloc).</li>
-  <li>👯 I’m looking to collaborate on <strong>Flutter open-source projects</strong>, especially UI/UX-focused ones.</li>
-  <li>🤔 I’m looking for help with <strong>Flutter performance optimization</strong> and <strong>clean architecture</strong>.</li>
-  <li>💬 Ask me about <strong>Flutter, Dart, and mobile app development</strong>.</li>
-  <li>📫 How to reach me: <a href="https://www.facebook.com/share/18svtJvLzg/">Facebook</a> | <a href="mailto:visalchhin54@email.com">Email</a></li>
-  <li>😄 Pronouns: he/him</li>
-  <li>⚡ Fun fact: I can build beautiful UIs in Flutter faster than my coffee brews ☕😉</li>
-</ul>
+---
 
-<hr />
+> “My personality is like a cube — strong, versatile, and always evolving.” 💪
 
-<h2 style="font-size: 22px;">🛠️ TECH STACK</h2>
-
-<ul style="font-size: 18px;">
-  <li><strong>Languages</strong>: Dart, JavaScript, HTML, CSS, Java, C++, Spring Boot, SQL</li>
-  <li><strong>Frameworks</strong>: Flutter, Bootstrap</li>
-  <li><strong>Tools</strong>: VS Code, Android Studio, Git, GitHub</li>
-  <li><strong>Other</strong>: Firebase, REST APIs, Figma (UI Design)</li>
-</ul>
-
-<hr />
-
-<h2 style="font-size: 22px;">📱 RECENT FLUTTER PROJECTS</h2>
-
-<ul style="font-size: 18px;">
-  <li>📦 <strong>MyPortfolio</strong> – A personal portfolio app built in Flutter</li>
-  <li>📝 <strong>TodoEase</strong> – A to-do list with local storage and smooth animations</li>
-  <li>📊 <strong>SalesTracker</strong> – A small business sales tracking Flutter app connected with Firebase</li>
-</ul>
-
-<hr />
 
 <h2 style="font-size: 22px;">📈 GITHUB STATS</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visal-chhin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
