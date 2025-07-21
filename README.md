@@ -2,7 +2,7 @@
 
 # 👋 Hi All Watching:  
 
-# **<h3 style="font-size: 34px;>I'm VISAL CHHIN<\h3>**  
+# **I'm VISAL CHHIN**  
 
 🎓 **Computer Science | Second Year**  
 
@@ -37,7 +37,7 @@
 
 ## 📫 Connect with Me
 
-- 🌐 Website: [.site](https://.site)  
+- 🌐 Website: [visalchhin.site](https://.site)  
 - 💼 LinkedIn: [visal-chhin]()
 - 📧 Email: [visalchhin54@gmail.com](mailto:visalchhin54@gmail.com)  
 
